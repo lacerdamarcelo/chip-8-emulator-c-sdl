@@ -7,7 +7,7 @@ The code is pretty simple, with NO software patterns at all. The only intention 
 
 ## How to use it
 
-First of all, you need to install SDL 2.0. It was used to get the user's input from keyboard and to print the pixels on the screen. I followed [this](https://medium.com/@edkins.sarah/set-up-sdl2-on-your-mac-without-xcode-6b0c33b723f7) article to do that.
+First of all, you need to install SDL 2.0. It was used to get the user's input from keyboard and to print the pixels on the screen. I followed [this](https://medium.com/@edkins.sarah/set-up-sdl2-on-your-mac-without-xcode-6b0c33b723f7) article to do that. You need to install SDL 2.0.0, otherwise you'll need to change the Makefile accordingly to compile the project.
 
 After installing SDL, run the following command in the project folder to compile the emulator.
 
